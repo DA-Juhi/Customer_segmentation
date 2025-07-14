@@ -1,9 +1,9 @@
-# Customer Segmentation
+# Customer Segmentation Analysis
 
 ## Project Overview
 This project analyzes customer segmentation data using Python for Exploratory Data Analysis (EDA) and Power BI for dashboarding. The objective is to understand customer spending patterns and category preferences by analyzing age and gender, supporting targeted marketing and business decisions.
 
----
+
 
 ##  Project Goals
 - Perform **EDA** to uncover customer behavior patterns.
@@ -11,7 +11,7 @@ This project analyzes customer segmentation data using Python for Exploratory Da
 - Visualize category preferences for effective segmentation.
 - Build a **Power BI dashboard** for interactive stakeholder insights.
 
----
+
 
 ##  Methodology
 
@@ -34,7 +34,7 @@ This project analyzes customer segmentation data using Python for Exploratory Da
 - Built interactive dashboards to visualize insights.
 - Added slicers for age group, gender, and preferred categories.
 
----
+
 
 ##  Conclusion
 This project demonstrates practical data analyst skills by combining Python-based EDA with Power BI dashboarding to communicate customer behavior insights effectively. It enables understanding of customer segments and supports targeted business strategies.
